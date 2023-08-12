@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am Shrikanth Dev N,<br>👨‍💻Currently collaborating with Mercedes-Benz Research and Development India<br>👀 I’m interested in AWS, AZURE cloud and automation<br>🌱 I’m currently brewing kubernetes & terrafrm. . .<br>📫 How to reach me: shreekanth_dev@gmail.com<br>
+👋 Hi, I am Shrikanth Dev N,<br>👨‍💻Currently collaborating with Mercedes-Benz Research and Development India<br>👀 I’m interested in AWS, AZURE Cloud and Automation<br>🌱 I’m currently brewing kubernetes & terraform. . .<br>📫 How to reach me: shreekanth_dev@gmail.com<br>
 
 
 ## 🌐 Socials:
